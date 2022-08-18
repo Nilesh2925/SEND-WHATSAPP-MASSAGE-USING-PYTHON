@@ -1,0 +1,3 @@
+import pywhatkit as kit 
+#pip install pywhatkit
+kit.sendwhatmsg("+919999999999"," HELLO BRO ",19,39)  //YOU CAN ENTER ANY EXISTING NUMBER HERE , THE THE MASSEGE YOU WAND TO SEND AND WHEN IT WILL BE SEND..
